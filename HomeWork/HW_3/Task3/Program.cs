@@ -22,5 +22,14 @@ double Cub(double x)
     return (x * x * x);
 }
 
-double res = Cub(number);
-Console.WriteLine($"Куб введенного числа: {res}");
+Console.WriteLine($"Куб введенного числа: ");
+int i=1;
+while(i<=number)
+{
+    Console.Write(Cub(i));
+    if (i<number)
+    Console.Write(", ");
+    i++;
+}
+
+ 
