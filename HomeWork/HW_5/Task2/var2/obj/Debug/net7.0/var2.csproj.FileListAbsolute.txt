@@ -1,0 +1,15 @@
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\obj\Debug\net7.0\var2.csproj.AssemblyReference.cache
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\obj\Debug\net7.0\var2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\obj\Debug\net7.0\var2.AssemblyInfoInputs.cache
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\obj\Debug\net7.0\var2.AssemblyInfo.cs
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\obj\Debug\net7.0\var2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\bin\Debug\net7.0\var2.exe
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\bin\Debug\net7.0\var2.deps.json
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\bin\Debug\net7.0\var2.runtimeconfig.json
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\bin\Debug\net7.0\var2.dll
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\bin\Debug\net7.0\var2.pdb
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\obj\Debug\net7.0\var2.dll
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\obj\Debug\net7.0\refint\var2.dll
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\obj\Debug\net7.0\var2.pdb
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\obj\Debug\net7.0\var2.genruntimeconfig.cache
+C:\Users\Lenovo T470\Documents\GB\Git\C-sharp lessons\Examples\HomeWork\HW_5\Task2\var2\obj\Debug\net7.0\ref\var2.dll
