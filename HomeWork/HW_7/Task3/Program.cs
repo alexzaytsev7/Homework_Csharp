@@ -29,8 +29,8 @@ void PrintArray2D(int[,] array) {
 
 void AverageColumn(int[,] array){
     Console.Write("Cреднее арифметическое элементов в каждом столбце: ");
-    float result = 0;
     for (int j = 0; j < array.GetLength(1); j++){
+        float result = 0;
         for (int i = 0; i < array.GetLength(0); i++){
       
         result += array[i,j];
